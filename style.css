@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to bottom, white, black);
+    height: 100%;
+    background-repeat: no-repeat;
+}
+img{
+    width: 50%;
+    border: 2px solid white;
+
+}
+
+.image{
+    
+    margin-top: 80px;
+  
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
